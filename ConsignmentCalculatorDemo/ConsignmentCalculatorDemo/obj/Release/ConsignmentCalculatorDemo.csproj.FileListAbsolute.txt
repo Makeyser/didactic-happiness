@@ -1,0 +1,11 @@
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\ConsignmentCalculatorDemo\ConsignmentCalculatorDemo\bin\Release\ConsignmentCalculatorDemo.exe.config
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\ConsignmentCalculatorDemo\ConsignmentCalculatorDemo\bin\Release\ConsignmentCalculatorDemo.exe
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\ConsignmentCalculatorDemo\ConsignmentCalculatorDemo\bin\Release\ConsignmentCalculatorDemo.pdb
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\ConsignmentCalculatorDemo\ConsignmentCalculatorDemo\bin\Release\ConsignmentClassLibrary.dll
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\ConsignmentCalculatorDemo\ConsignmentCalculatorDemo\bin\Release\ConsignmentClassLibrary.pdb
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\ConsignmentCalculatorDemo\ConsignmentCalculatorDemo\obj\Release\ConsignmentCalculatorDemo.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\ConsignmentCalculatorDemo\ConsignmentCalculatorDemo\obj\Release\ConsignmentCalculatorDemo.ConsignmentUI.resources
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\ConsignmentCalculatorDemo\ConsignmentCalculatorDemo\obj\Release\ConsignmentCalculatorDemo.Properties.Resources.resources
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\ConsignmentCalculatorDemo\ConsignmentCalculatorDemo\obj\Release\ConsignmentCalculatorDemo.csproj.GenerateResource.Cache
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\ConsignmentCalculatorDemo\ConsignmentCalculatorDemo\obj\Release\ConsignmentCalculatorDemo.exe
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\ConsignmentCalculatorDemo\ConsignmentCalculatorDemo\obj\Release\ConsignmentCalculatorDemo.pdb

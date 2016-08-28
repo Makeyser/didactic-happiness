@@ -1,0 +1,5 @@
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\ConsignmentCalculatorDemo\ConsignmentClassLibrary\bin\Debug\ConsignmentClassLibrary.dll
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\ConsignmentCalculatorDemo\ConsignmentClassLibrary\bin\Debug\ConsignmentClassLibrary.pdb
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\ConsignmentCalculatorDemo\ConsignmentClassLibrary\obj\Debug\ConsignmentClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\ConsignmentCalculatorDemo\ConsignmentClassLibrary\obj\Debug\ConsignmentClassLibrary.dll
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\ConsignmentCalculatorDemo\ConsignmentClassLibrary\obj\Debug\ConsignmentClassLibrary.pdb
